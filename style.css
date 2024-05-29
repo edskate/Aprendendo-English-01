@@ -13,3 +13,30 @@ li{
   
     
 }
+table{
+    color: blanchedalmond;
+    text-align: center;
+    margin: auto;
+    border-collapse: collapse;
+    border: 1px solid white;
+    padding: 5px;
+    font-size: 15px;
+    width: 50%;
+    margin-top: 20px;
+    margin-bottom: 21px;
+    
+ 
+
+}
+h1{
+    text-align: center;
+}
+th{
+    text-align: center;
+    border: 2px solid white;
+}
+td{
+    text-align: center;
+    border: 2px solid white;
+
+}
